@@ -1,0 +1,15 @@
+a="A"
+print(a)
+b="B"
+print(b)
+c="C"
+print(c)
+d="D"
+print(d)
+e="E"
+print(e)
+f="F"
+print(f)
+g="G"
+print(g)
+
